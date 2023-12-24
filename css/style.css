@@ -5425,7 +5425,7 @@ z-index: 999; /* Osigurajte da je ispod popup-a */
 flex-direction: column;
 }
 #availabilityPopup{
-min-width: 300px;
+min-width: 100%;
 }
 }
 
